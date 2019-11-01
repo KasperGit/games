@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-10-28 18:28:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2019-04-28 18:47:31 +0200"
@@ -652,7 +658,8 @@
       "minecraft:silverfish": "2019-05-03 10:01:08 +0200",
       "minecraft:stray": "2019-04-26 19:36:30 +0200",
       "minecraft:zombie": "2019-04-26 19:12:34 +0200",
-      "minecraft:drowned": "2019-10-12 16:28:50 +0200"
+      "minecraft:drowned": "2019-10-12 16:28:50 +0200",
+      "minecraft:zombie_villager": "2019-10-28 19:17:45 +0100"
     },
     "done": false
   },
@@ -671,6 +678,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2019-09-29 12:22:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-10-28 18:51:37 +0100"
     },
     "done": true
   },
@@ -1283,6 +1296,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2019-09-29 14:48:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-10-28 18:28:20 +0100"
     },
     "done": true
   },
@@ -2572,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2019-10-28 18:29:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2019-04-30 16:07:29 +0200"
@@ -2746,6 +2771,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-05-02 16:35:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-10-28 18:28:20 +0100"
     },
     "done": true
   },
